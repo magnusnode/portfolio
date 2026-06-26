@@ -1,29 +1,15 @@
-# MagnusNode Portfolio
+# Łukasz Sojka Portfolio
 
-Professional bilingual PL/EN portfolio, services offer and CV for 𝔐𝔞𝔤𝔫𝔲𝔰 / MagnusNode.
+Public bilingual PL/EN portfolio and service offer. `main` becomes canonical only after reviewed merge. The repository is a presentation/distribution surface linked from MAGNUSOS, not a fourth active operating system.
 
-## Source-of-truth model
+## Run
 
-- Lovable: UI implementation and visual iteration
-- GitHub `main`: canonical source code after review
-- MAGNUSOS: portfolio specification, content architecture and career documentation
+```bash
+npm install
+npm run build
+npm run dev
+```
 
-## Current design variants
+## Public identity
 
-1. Terminal Developer Portfolio — dark terminal-oriented interface.
-2. Premium SaaS Portfolio V2 — cinematic dark interface with burgundy gradients, modular service cards and PL/EN content.
-
-## Guardrails
-
-- no fabricated clients, testimonials, certificates or employment history;
-- no unsupported seniority claims;
-- skills and project states must remain explicit and verifiable;
-- changes should use branch → review → pull request → merge.
-
-## Planned stack
-
-React, TypeScript, Vite, semantic responsive components, centralized bilingual content configuration, accessible forms and printable CV.
-
-## Project status
-
-Repository initialized as the target for Lovable GitHub synchronization.
+Primary: Łukasz Sojka. Secondary nickname: 𝔐𝔞𝔤𝔫𝔲𝔰, used sparingly. Contact links are placeholders until owner replacement.
