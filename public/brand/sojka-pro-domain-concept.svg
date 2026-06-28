@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">sojka.pro brand and domain visualisation</title>
+<desc id="desc">Concept showing the sojka.pro website, Łukasz Sojka portrait, email identity and domain architecture.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7B7FFF"/><stop offset="1" stop-color="#36D6CF"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#070913" stop-opacity="0"/><stop offset="1" stop-color="#070913" stop-opacity=".96"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#101729" stroke-width="1"/></pattern>
+  <clipPath id="photo"><rect x="655" y="260" width="385" height="585" rx="20"/></clipPath>
+</defs>
+<rect width="1600" height="1000" fill="#070913"/><rect width="1600" height="1000" fill="url(#grid)"/>
+<text x="60" y="72" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="34" font-weight="800">SOJKA.PRO</text>
+<text x="60" y="105" fill="#36D6CF" font-family="monospace" font-size="13" font-weight="700" letter-spacing="3">DOMAIN / BRAND DIRECTION 2026–2027</text>
+<text x="1260" y="70" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="21" font-weight="700">ŁUKASZ SOJKA</text>
+<text x="1260" y="101" fill="#9BA7BC" font-family="monospace" font-size="12">AI &amp; IT SYSTEMS OPERATOR</text>
+<path d="M60 135H1540" stroke="#24314B" stroke-width="2"/>
+
+<rect x="60" y="175" width="1010" height="740" rx="28" fill="#0D1220" stroke="#24314B" stroke-width="2"/>
+<rect x="80" y="195" width="970" height="52" rx="14" fill="#090D17"/>
+<circle cx="105" cy="221" r="6" fill="#E9662C"/><circle cx="128" cy="221" r="6" fill="#DDBB55"/><circle cx="151" cy="221" r="6" fill="#36D6CF"/>
+<rect x="235" y="206" width="630" height="29" rx="9" fill="#111827"/>
+<text x="260" y="226" fill="#9BA7BC" font-family="monospace" font-size="15">https://sojka.pro</text>
+<text x="110" y="302" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="29" font-weight="800">SOJKA.PRO</text>
+<text x="500" y="298" fill="#9BA7BC" font-family="monospace" font-size="12">USŁUGI     PERSONAL AI OS     PROJEKTY     CV     KONTAKT</text>
+<text x="110" y="387" fill="#36D6CF" font-family="monospace" font-size="14" font-weight="700" letter-spacing="2">ŁUKASZ SOJKA</text>
+<text x="110" y="468" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="76" font-weight="900">AI, SYSTEMY</text>
+<text x="110" y="548" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="76" font-weight="900">I CYFROWE</text>
+<text x="110" y="628" fill="#7B7FFF" font-family="Arial,sans-serif" font-size="76" font-weight="900">OPERACJE.</text>
+<text x="110" y="690" fill="#9BA7BC" font-family="Arial,sans-serif" font-size="21">Od niejasnego problemu do działającego workflow,</text>
+<text x="110" y="722" fill="#9BA7BC" font-family="Arial,sans-serif" font-size="21">repozytorium, automatyzacji albo produktu.</text>
+<rect x="110" y="770" width="225" height="56" rx="11" fill="#7B7FFF"/><text x="158" y="805" fill="#F5F7FB" font-family="monospace" font-size="14" font-weight="700">WYŚLIJ BRIEF</text>
+<rect x="352" y="770" width="225" height="56" rx="11" fill="none" stroke="#24314B" stroke-width="2"/><text x="391" y="805" fill="#F5F7FB" font-family="monospace" font-size="14" font-weight="700">ZOBACZ OFERTĘ</text>
+
+<image href="../assets/lukasz-sojka.webp" x="655" y="260" width="385" height="585" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo)"/>
+<rect x="655" y="650" width="385" height="195" fill="url(#fade)" clip-path="url(#photo)"/>
+<rect x="655" y="260" width="385" height="585" rx="20" fill="none" stroke="#59647C" stroke-width="2"/>
+<text x="682" y="784" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="28" font-weight="800">ŁUKASZ SOJKA</text>
+<text x="682" y="816" fill="#36D6CF" font-family="monospace" font-size="12" font-weight="700">AI &amp; IT SYSTEMS OPERATOR</text>
+
+<rect x="1110" y="175" width="430" height="315" rx="28" fill="#F5F3EF"/>
+<text x="1140" y="215" fill="#536078" font-family="monospace" font-size="12" font-weight="700">BRAND SCORE</text>
+<text x="1140" y="300" fill="#111111" font-family="Arial,sans-serif" font-size="76" font-weight="900">93/100</text>
+<text x="1140" y="354" fill="#536078" font-family="monospace" font-size="12">MEMORABILITY          96</text>
+<text x="1140" y="387" fill="#536078" font-family="monospace" font-size="12">EMAIL QUALITY         99</text>
+<text x="1140" y="420" fill="#536078" font-family="monospace" font-size="12">PL + EN FIT           94</text>
+<text x="1140" y="453" fill="#536078" font-family="monospace" font-size="12">LOCAL SEO SIGNAL      78</text>
+
+<rect x="1110" y="520" width="430" height="205" rx="28" fill="#0D1220" stroke="#24314B" stroke-width="2"/>
+<text x="1140" y="560" fill="#36D6CF" font-family="monospace" font-size="12" font-weight="700">EMAIL / BUSINESS CARD</text>
+<text x="1140" y="615" fill="#F5F7FB" font-family="Arial,sans-serif" font-size="29" font-weight="800">Łukasz Sojka</text>
+<text x="1140" y="647" fill="#9BA7BC" font-family="Arial,sans-serif" font-size="16">AI &amp; IT Systems Operator</text>
+<path d="M1140 675H1510" stroke="#24314B"/>
+<text x="1140" y="704" fill="#36D6CF" font-family="monospace" font-size="16" font-weight="700">lukasz@sojka.pro</text>
+
+<rect x="1110" y="755" width="430" height="160" rx="28" fill="#0D1220" stroke="#24314B" stroke-width="2"/>
+<text x="1140" y="795" fill="#36D6CF" font-family="monospace" font-size="12" font-weight="700">DOMAIN ARCHITECTURE</text>
+<text x="1140" y="829" fill="#F5F7FB" font-family="monospace" font-size="14">sojka.pro       PORTFOLIO</text>
+<text x="1140" y="855" fill="#F5F7FB" font-family="monospace" font-size="14">lab.sojka.pro   MAGNUSNODE</text>
+<text x="1140" y="881" fill="#F5F7FB" font-family="monospace" font-size="14">cv.sojka.pro    CV / JOBS</text>
+
+<text x="60" y="965" fill="#E9662C" font-family="monospace" font-size="12" font-weight="700">CONCEPT VISUAL — DOMAIN AVAILABILITY NOT YET CONFIRMED</text>
+<text x="1045" y="965" fill="#9BA7BC" font-family="monospace" font-size="12">PRIMARY: ŁUKASZ SOJKA / SECONDARY: 𝔐𝔞𝔤𝔫𝔲𝔰</text>
+</svg>
